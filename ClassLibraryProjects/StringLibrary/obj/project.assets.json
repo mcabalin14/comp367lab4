@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\\06 SEMESTER\\COMP 367 - DevOps Implementation\\ASSIGNMENTS\\Lab4\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
+      "projectUniqueName": "E:\\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\\06 SEMESTER\\COMP 367 - DevOps Implementation\\ASSIGNMENTS\\Lab4\\comp367cabalinan-lab1\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
       "projectName": "StringLibrary",
-      "projectPath": "E:\\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\\06 SEMESTER\\COMP 367 - DevOps Implementation\\ASSIGNMENTS\\Lab4\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
+      "projectPath": "E:\\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\\06 SEMESTER\\COMP 367 - DevOps Implementation\\ASSIGNMENTS\\Lab4\\comp367cabalinan-lab1\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
       "packagesPath": "C:\\Users\\Myhtak214\\.nuget\\packages\\",
-      "outputPath": "E:\\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\\06 SEMESTER\\COMP 367 - DevOps Implementation\\ASSIGNMENTS\\Lab4\\ClassLibraryProjects\\StringLibrary\\obj\\",
+      "outputPath": "E:\\CENTENNIAL COLLEGE - SOFTWARE ENGINEERING TECHNOLOGY\\06 SEMESTER\\COMP 367 - DevOps Implementation\\ASSIGNMENTS\\Lab4\\comp367cabalinan-lab1\\ClassLibraryProjects\\StringLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Myhtak214\\AppData\\Roaming\\NuGet\\NuGet.Config",
